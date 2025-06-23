@@ -29,13 +29,16 @@ Ce projet est un portfolio personnel développé en React.js, avec une base de d
 
 Lancement de l’application
 Dans le répertoire racine, lancer le serveur de développement React :
-    ```bash
-    npm start
+    ```
+
+    ```    npm start
 
 Dans un autre terminal, lancer le backend et la base SQLite3 :
-    ```bash
-    node backend/server.js
+    ```
+
+    ```    node backend/server.js
 
 Ouvrir votre navigateur à l’adresse :
-    ```bash
-    http://localhost:3000
+
+    ```    http://localhost:3000
+    
