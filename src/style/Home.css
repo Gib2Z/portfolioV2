@@ -1,0 +1,12 @@
+/* Home.css */
+
+.home {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .home h1 {
+    font-size: 2rem;
+    color: #333;
+  }
+  
